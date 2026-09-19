@@ -1,7 +1,7 @@
 {
   "name": "IPAudioPlus",
-  "version": "1.0",
-  "date": "2026-09-18",
+  "version": "1.0.1",
+  "date": "2026-09-19",
   "description": "تحديث جديد لبلجن IPAudioPlus يتضمن ميزات وتحسينات جديدة",
   "changelog": [
     "إضافة خاصية الفحص والتحديث التلقائي مباشرة من GitHub",
@@ -9,5 +9,5 @@
     "إضافة مولد التوكن والاشتراكات الذكي (Token Generator) في واجهة الويب",
     "تحسين التوافقية الشاملة وسرعة الاستجابة على صور Enigma2"
   ],
-  "download_url": "https://raw.githubusercontent.com/Ahmadarjan1/IPAudioPlus/main/IPAudioPlus.tar.gz"
+  "download_url": "https://raw.githubusercontent.com/Ahmadarjan1/IPAudioPlus/main/enigma2-plugin-extensions-ipaudioplus_1.0.1_Universal-All-Images_all.ipk"
 }
